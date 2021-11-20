@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyMapsApp</string>
+    <string name="title_activity_maps">OsmanTahir_COMP304Sec004_Lab5</string>
+
+    <string-array name="Cuisines">
+        <item>Italian Cuisine</item>
+        <item>Chinese Cuisine</item>
+        <item>Greek Cuisine</item>
+        <item>Indian Cuisine</item>
+    </string-array>
+
+
+    <string name="italians_heading">Italian Restaurants</string>
+    <string name="chinese_heading">Chinese Restaurants</string>
+    <string name="greeks_heading">Greek Restaurants</string>
+    <string name="indians_heading">Indian Restaurants</string>
+
+    <!--String Array for Restaurants Names-->
+    <string-array name="italianRes_names">
+        <item>Posta Italbar Cucina</item>
+        <item>Via Allegro</item>
+    </string-array>
+    <!--End of String Array for Restaurants Names-->
+
+    <!--String Array for Restaurants Names-->
+    <string-array name="chineseRes_names">
+        <item>Chung Moi Chinese Restaurant</item>
+        <item>Hakka Legend Asian Cuisine</item>
+    </string-array>
+    <!--End of String Array for Restaurants Names-->
+
+    <!--String Array for Restaurants Names-->
+    <string-array name="greekRes_names">
+        <item>Il Fresco Restaurant</item>
+        <item>The Real Greek Restaurant</item>
+    </string-array>
+    <!--End of String Array for Restaurants Names-->
+
+
+
+    <!--String Array for Restaurants Names-->
+    <string-array name="indianRes_names">
+        <item>Bowl of Karma Restaurant</item>
+        <item>Biryani Walla Toronto Restaurant</item>
+    </string-array>
+    <!--End of String Array for Restaurants Names-->
+
+
+    <string name="zoomin">Zoom In</string>
+    <string name="zoomout">Zoom Out</string>
+    <string name="change">Switch Map</string>
+    <string name="restaurantList">Go To Restaurants List</string>
+    <string name="title_activity_chinese_maps">Map</string>
+    <string name="title_activity_greeks_maps">Map</string>
+    <string name="title_activity_indians_maps">Map</string>
+    <string name="title_activity_italians_maps">Map</string>
+</resources>
